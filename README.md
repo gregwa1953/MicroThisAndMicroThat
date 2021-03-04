@@ -39,12 +39,20 @@ I'll try to give you some quick how to information in this section...
 
 ##### Install Thonny on Linux
 
-(still to come)
+**wget -O thonny-latest.sh**[ **https://thonny.org/installer-for-linux**](https://thonny.org/installer-for-linux)
 
 ##### Push MicroPython to your Raspberry Pi Pico
 
-(still to come)
+1. Download latest MicroPython for Pico UF2 file (see link above)
+2. Unplug the Pico from the USB cable
+3. Hold down the **BOOTSEL** button and plug in the USB cable
+4. When you see the new File Manager window, release the **BOOTSEL** button.
+5. Drag and drop the latest UF2 file into the File Manager window.
 
 ##### Push CircuitPython to your Raspberry Pi Pico
 
-(still to come)
+1. Download latest CircuitPython for Pico UF2 file (see link above)
+2. Unplug the Pico from the USB cable
+3. Hold down the **BOOTSEL** button and plug in the USB cable
+4. When you see the new File Manager window, release the **BOOTSEL** button.
+5. Drag and drop the latest UF2 file into the File Manager window.
