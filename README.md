@@ -1,5 +1,5 @@
 # MicroThisAndMicroThat
-Welcome to the repository for my Micro This and Micro That article series in **Full Circle Magazine** (fullcirclemagazine.org)
+Welcome to the repository for my Micro This and Micro That article series in **Full Circle Magazine** (https://fullcirclemagazine.org/)
 
 The article series is about Microcontrollers, MicroPython and CircuitPython.
 
