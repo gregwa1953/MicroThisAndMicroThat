@@ -21,9 +21,10 @@ Here you will find some (hopefully) helpful links for your journey with Microcon
 
 http://micropython.org/download/rp2-pico/
 
-
-
 #### Raspberry Pi Pico MicroPython Forum
 
 https://www.raspberrypi.org/forums/viewforum.php?f=146
 
+#### CircuitPython for Raspberry Pi Pico
+
+https://circuitpython.org/board/raspberry_pi_pico/
